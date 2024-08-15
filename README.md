@@ -4,11 +4,15 @@
 </div>
 
 <div align="center">
-  <h6 align="center" style="display: inline_block">
+ <h6 align="center" style="display: inline-block;">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+    <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-    
-  </h6>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+</h6>
+
 </div>
 
 <div> 
