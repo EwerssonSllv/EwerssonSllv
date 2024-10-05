@@ -31,3 +31,7 @@ Constantly seeking out new technologies and methodologies, I am always expanding
 In addition to my technical expertise, I am a strong advocate for collaboration and teamwork. I believe open communication and shared learning experiences are essential to fostering creativity and driving innovation. Whether brainstorming solutions, facing challenges, or celebrating achievements, I thrive in collaborative environments with common goals.
 
 Outside of programming, I am an avid learner, creative thinker, and problem solver. When I am not immersed in code, I enjoy exploring nature, reading good books, and playing chess.
+
+I am fluent in Portuguese, have intermediate proficiency in English, and a basic understanding of French.
+
+
