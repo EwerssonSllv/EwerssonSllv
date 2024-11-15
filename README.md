@@ -12,6 +12,8 @@
     <img src="https://img.icons8.com/color/48/000000/brazil.png" alt="Portuguese"/>
     <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English"/>
     <img src="https://img.icons8.com/color/48/000000/france.png" alt="French"/>
+    <img src="https://img.icons8.com/color/48/000000/italy.png" alt="Italian"/>
+  
 </h6>
 
 
