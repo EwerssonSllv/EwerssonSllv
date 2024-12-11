@@ -9,11 +9,8 @@
     <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/brazil.png" alt="Portuguese"/>
     <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English"/>
-    <img src="https://img.icons8.com/color/48/000000/france.png" alt="French"/>
-    <img src="https://img.icons8.com/color/48/000000/italy.png" alt="Italian"/>
-  
+    <img src="https://img.icons8.com/color/48/000000/france.png" alt="French"/>  
 </h6>
 
 
