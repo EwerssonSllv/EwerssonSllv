@@ -23,7 +23,7 @@
 
 ### About Me
 
-I am Ewersson O. da Silva, a mobile developer specialized in Android development with a focus on the Kotlin language. With a passion for creating innovative and efficient solutions, I dedicate myself to developing robust, user-friendly applications that provide an excellent user experience. I have a keen eye for detail and prioritize writing clean, optimized code.
+I am Ewersson O. da Silva, a mobile developer specialized in Android development and backend with a focus on the Kotlin language. With a passion for creating innovative and efficient solutions, I dedicate myself to developing robust, user-friendly applications that provide an excellent user experience. I have a keen eye for detail and prioritize writing clean, optimized code.
 
 Constantly seeking out new technologies and methodologies, I am always expanding my skills to tackle real-world challenges and make a positive impact on people's lives through technology. My journey in programming goes beyond writing code—it's about leveraging it as a tool to solve real-world problems.
 
