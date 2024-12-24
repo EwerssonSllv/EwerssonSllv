@@ -6,11 +6,11 @@
 <div align="center">
 <h6 align="center" style="display: inline-block;">
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+   <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English"/>
-    <img src="https://img.icons8.com/color/48/000000/france.png" alt="French"/>  
 </h6>
 
 
