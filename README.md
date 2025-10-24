@@ -11,10 +11,8 @@
   <img src="https://img.icons8.com/color/48/000000/net-framework.png"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
   <img src="https://img.icons8.com/color/48/000000/windows-client.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database icon" style="vertical-align: middle;"/> 
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
 </h6>
 
 
@@ -30,13 +28,19 @@
 
 ### About Me
 
-I am Ewersson O. da Silva, a mobile and backend developer specialized in Android development with a focus on the Kotlin language. I am passionate about creating innovative and efficient solutions, and I dedicate myself to developing robust, user-friendly applications that provide an excellent user experience. With expertise in both mobile and backend development, I ensure the seamless integration of frontend and backend systems to deliver high-performing, scalable solutions.
+I am Ewersson O. da Silva, a Software Engineer focused on backend, mobile, and desktop development.
 
-I have a keen eye for detail and prioritize writing clean, optimized code. Constantly seeking out new technologies and methodologies, I am always expanding my skills to tackle real-world challenges and make a positive impact on people's lives through technology. My journey in programming goes beyond writing code—it's about leveraging it as a tool to solve real-world problems.
+I have experience with:
+<ul>
+  <li>Java and C# – developing backend and desktop applications, creating robust and scalable systems.</li>
+  <li>Kotlin and Android – developing modern mobile applications with a focus on performance and user experience.</li>
+  <li>.NET MAUI – building cross-platform applications (desktop and mobile) with a unified codebase.</li>
+  <li>PostgreSQL and MySQL – managing relational databases, ensuring data integrity, efficient queries, and high performance.</li>
+  <li>Docker – containerizing applications, facilitating deployment, scalability, and consistent environments.</li>
+  <li>REST APIs and Microservices – integrating systems, creating independent services, and enabling communication between different components.</li>
+  <li>Design Patterns – applying best practices in architecture and project patterns for clean, modular, and maintainable code.</li>
+</ul>
 
-In addition to my technical expertise, I am a strong advocate for collaboration and teamwork. I believe open communication and shared learning experiences are essential to fostering creativity and driving innovation. Whether brainstorming solutions, facing challenges, or celebrating achievements, I thrive in collaborative environments with common goals.
+I am constantly studying new technologies and methodologies to improve my skills and solve real-world challenges efficiently. I prioritize writing clean, organized, and optimized code, with attention to detail and software engineering best practices.
 
-Outside of programming, I am an avid learner, creative thinker, and problem solver. When I am not immersed in code, I enjoy exploring nature, reading good books, and playing chess.
-
-I am fluent in Portuguese, have intermediate proficiency in English, and a basic understanding of French.
-
+I value teamwork and collaboration, believing that clear communication and shared learning are essential to developing better solutions.
