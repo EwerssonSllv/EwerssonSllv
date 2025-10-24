@@ -5,12 +5,18 @@
 
 <div align="center">
 <h6 align="center" style="display: inline-block;">
-    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/cs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img src="https://img.icons8.com/color/48/000000/net-framework.png"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-client.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
 </h6>
+
 
 
 
